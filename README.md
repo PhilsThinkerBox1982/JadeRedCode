@@ -1,2 +1,2 @@
 # JadeRedCode
-Jade Red Character Evolution
+Jade Red Evolution
